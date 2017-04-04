@@ -14,4 +14,5 @@ The Scikit-learn library of Python is used to implement following classifiers on
 3. Classification and Regresssion Trees[CART]
 4. K Nearest Neighbours
 5. Support Vector Machines
+
 Classification Report ,Confusion Matrix and Accuracy Score are Produced for each Classifier.
